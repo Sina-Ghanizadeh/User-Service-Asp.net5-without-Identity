@@ -1,0 +1,20 @@
+﻿@model UserService.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Success Register";
+}
+
+<h1>Success Register</h1>
+
+<div class="alert alert-success">
+    @{ 
+        var FullName = Model.FirstName+" " + Model.LastName;
+    }
+    
+   Dear @FullName , Thanks For Registeration
+    
+
+    <p>
+        
+        <a asp-controller="Account" asp-action="Login">Login</a>
+    </p>
+</div>
