@@ -3,17 +3,17 @@ User Service Project , asp dotnet5 , whitout-using Identity
 
 <hr/>
 <br/>
-Login  
-Register 
-Reset Password with send verification Code to User Email
+Login  <br/>
+Register <br/>
+Reset Password with send verification Code to User Email<br/>
 
 <hr/>
 <br/>
-Asp .net 5
-MSSQL
-Ef Core 5
-Send Email with Mailkit
-My Password hasher Class
+Asp .net 5<br/>
+MSSQL<br/>
+Ef Core 5<br/>
+Send Email with Mailkit<br/>
+My Password hasher Class<br/>
 
 <hr/>
 <br/>
